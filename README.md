@@ -44,4 +44,4 @@ Python, pandas — see `requirements.txt`
 
 ## Author
 
-Savgun Kaur ([savscripts](https://github.com/savscripts)) — co-authored with Mukti Maitree Mahjabin
+Savgun Kaur ([savscripts](https://github.com/savscripts))
