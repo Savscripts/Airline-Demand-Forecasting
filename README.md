@@ -2,8 +2,6 @@
 
 Built a weekday-sensitive forecasting model that predicts final airline booking demand from partial, in-progress booking data — **24% more accurate than a naive baseline** (MASE 0.64 vs. 0.84).
 
-MSBA capstone project (BUAN 5201, Seattle University), co-authored with Mukti Maitree Mahjabin.
-
 **Skills demonstrated:** time series feature engineering, model comparison, forecast evaluation (MASE), Python/pandas, translating an analytical result into a business recommendation.
 
 ## Problem
